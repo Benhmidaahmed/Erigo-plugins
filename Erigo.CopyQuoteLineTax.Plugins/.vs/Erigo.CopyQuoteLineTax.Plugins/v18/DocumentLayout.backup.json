@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GIGABYTE\\Desktop\\bs-it\\repos\\repos\\Erigo.CopyQuoteLineTax.Plugins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E488110D-6DC7-42E6-B7CF-C01EE1FA5CD6}|Erigo.CopyQuoteLineTax.Plugins.csproj|c:\\users\\gigabyte\\desktop\\bs-it\\repos\\repos\\erigo.copyquotelinetax.plugins\\copyquotelinetaxfromproductplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E488110D-6DC7-42E6-B7CF-C01EE1FA5CD6}|Erigo.CopyQuoteLineTax.Plugins.csproj|solutionrelative:copyquotelinetaxfromproductplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CopyQuoteLineTaxFromProductPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\Desktop\\bs-it\\repos\\repos\\Erigo.CopyQuoteLineTax.Plugins\\CopyQuoteLineTaxFromProductPlugin.cs",
+              "RelativeDocumentMoniker": "CopyQuoteLineTaxFromProductPlugin.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\bs-it\\repos\\repos\\Erigo.CopyQuoteLineTax.Plugins\\CopyQuoteLineTaxFromProductPlugin.cs",
+              "RelativeToolTip": "CopyQuoteLineTaxFromProductPlugin.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAqwKoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T18:38:20.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
