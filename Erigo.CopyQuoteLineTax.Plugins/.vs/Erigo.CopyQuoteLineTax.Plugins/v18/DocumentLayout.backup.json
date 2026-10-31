@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\GIGABYTE\\Desktop\\bs-it\\repos\\repos\\Erigo.CopyQuoteLineTax.Plugins\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E488110D-6DC7-42E6-B7CF-C01EE1FA5CD6}|Erigo.CopyQuoteLineTax.Plugins.csproj|c:\\users\\gigabyte\\desktop\\bs-it\\repos\\repos\\erigo.copyquotelinetax.plugins\\copyquotelinetaxfromproductplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E488110D-6DC7-42E6-B7CF-C01EE1FA5CD6}|Erigo.CopyQuoteLineTax.Plugins.csproj|solutionrelative:copyquotelinetaxfromproductplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E488110D-6DC7-42E6-B7CF-C01EE1FA5CD6}|Erigo.CopyQuoteLineTax.Plugins.csproj|c:\\users\\gigabyte\\desktop\\bs-it\\repos\\repos\\erigo.copyquotelinetax.plugins\\copyopportunityproducttaxfromproductplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E488110D-6DC7-42E6-B7CF-C01EE1FA5CD6}|Erigo.CopyQuoteLineTax.Plugins.csproj|solutionrelative:copyopportunityproducttaxfromproductplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CopyQuoteLineTaxFromProductPlugin.cs",
-              "DocumentMoniker": "C:\\Users\\GIGABYTE\\Desktop\\bs-it\\repos\\repos\\Erigo.CopyQuoteLineTax.Plugins\\CopyQuoteLineTaxFromProductPlugin.cs",
-              "RelativeDocumentMoniker": "CopyQuoteLineTaxFromProductPlugin.cs",
-              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\bs-it\\repos\\repos\\Erigo.CopyQuoteLineTax.Plugins\\CopyQuoteLineTaxFromProductPlugin.cs",
-              "RelativeToolTip": "CopyQuoteLineTaxFromProductPlugin.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAqwKoAAAABAAAAAAAAAA==",
+              "Title": "CopyOpportunityProductTaxFromProductPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\Desktop\\bs-it\\repos\\repos\\Erigo.CopyQuoteLineTax.Plugins\\CopyOpportunityProductTaxFromProductPlugin.cs",
+              "RelativeDocumentMoniker": "CopyOpportunityProductTaxFromProductPlugin.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\bs-it\\repos\\repos\\Erigo.CopyQuoteLineTax.Plugins\\CopyOpportunityProductTaxFromProductPlugin.cs",
+              "RelativeToolTip": "CopyOpportunityProductTaxFromProductPlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T18:38:20.116Z",
+              "WhenOpened": "2026-10-31T11:29:27.35Z",
               "EditorCaption": ""
             }
           ]

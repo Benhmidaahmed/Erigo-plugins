@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.37314.3 d17.14
+# Visual Studio Version 18
+VisualStudioVersion = 18.11.12315.225 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erigo.CopyQuoteLineTax.Plugins", "Erigo.CopyQuoteLineTax.Plugins.csproj", "{E488110D-6DC7-42E6-B7CF-C01EE1FA5CD6}"
 EndProject

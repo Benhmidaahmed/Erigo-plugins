@@ -98,6 +98,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CopyOpportunityProductTaxFromProductPlugin.cs" />
     <Compile Include="CopyQuoteLineTaxFromProductPlugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
