@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\",
+  "WorkspaceRootPath": "C:\\Users\\GIGABYTE\\Desktop\\bs-it\\repos\\repos\\Divico.CRM.Plugins.Chantier\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7DFD7E8-8A51-4319-9980-6FB49D164B39}|Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier.csproj|c:\\users\\boulbabasdiri\\source\\repos\\divico.crm.plugins.chantier\\divico.crm.plugins.chantier\\calculatechantiertotalsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7DFD7E8-8A51-4319-9980-6FB49D164B39}|Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier.csproj|solutionrelative:divico.crm.plugins.chantier\\calculatechantiertotalsplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7DFD7E8-8A51-4319-9980-6FB49D164B39}|Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier.csproj|C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\divico.crm.plugins.chantier\\chantiercreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7DFD7E8-8A51-4319-9980-6FB49D164B39}|Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier.csproj|C:\\Users\\GIGABYTE\\Desktop\\bs-it\\repos\\repos\\Divico.CRM.Plugins.Chantier\\divico.crm.plugins.chantier\\chantiercreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7DFD7E8-8A51-4319-9980-6FB49D164B39}|Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier.csproj|solutionrelative:divico.crm.plugins.chantier\\chantiercreatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7DFD7E8-8A51-4319-9980-6FB49D164B39}|Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier.csproj|C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\divico.crm.plugins.chantier\\montantrealiseplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7DFD7E8-8A51-4319-9980-6FB49D164B39}|Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier.csproj|solutionrelative:divico.crm.plugins.chantier\\montantrealiseplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7DFD7E8-8A51-4319-9980-6FB49D164B39}|Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier.csproj|C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\divico.crm.plugins.chantier\\copierproduitsrapportplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7DFD7E8-8A51-4319-9980-6FB49D164B39}|Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier.csproj|solutionrelative:divico.crm.plugins.chantier\\copierproduitsrapportplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7DFD7E8-8A51-4319-9980-6FB49D164B39}|Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier.csproj|C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\divico.crm.plugins.chantier\\copierproduitschantierplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7DFD7E8-8A51-4319-9980-6FB49D164B39}|Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier.csproj|solutionrelative:divico.crm.plugins.chantier\\copierproduitschantierplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +14,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalculateChantierTotalsPlugin.cs",
-              "DocumentMoniker": "C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier\\CalculateChantierTotalsPlugin.cs",
-              "RelativeDocumentMoniker": "Divico.CRM.Plugins.Chantier\\CalculateChantierTotalsPlugin.cs",
-              "ToolTip": "C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier\\CalculateChantierTotalsPlugin.cs",
-              "RelativeToolTip": "Divico.CRM.Plugins.Chantier\\CalculateChantierTotalsPlugin.cs",
-              "ViewState": "AgIAADcAAAAAKDMzMzMiwDsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T15:50:37.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MontantRealisePlugin.cs",
-              "DocumentMoniker": "C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier\\MontantRealisePlugin.cs",
-              "RelativeDocumentMoniker": "Divico.CRM.Plugins.Chantier\\MontantRealisePlugin.cs",
-              "ToolTip": "C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier\\MontantRealisePlugin.cs",
-              "RelativeToolTip": "Divico.CRM.Plugins.Chantier\\MontantRealisePlugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T18:33:26.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CopierProduitsRapportPlugin.cs",
-              "DocumentMoniker": "C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier\\CopierProduitsRapportPlugin.cs",
-              "RelativeDocumentMoniker": "Divico.CRM.Plugins.Chantier\\CopierProduitsRapportPlugin.cs",
-              "ToolTip": "C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier\\CopierProduitsRapportPlugin.cs",
-              "RelativeToolTip": "Divico.CRM.Plugins.Chantier\\CopierProduitsRapportPlugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T18:31:14.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CopierProduitsChantierPlugin.cs",
-              "DocumentMoniker": "C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier\\CopierProduitsChantierPlugin.cs",
-              "RelativeDocumentMoniker": "Divico.CRM.Plugins.Chantier\\CopierProduitsChantierPlugin.cs",
-              "ToolTip": "C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier\\CopierProduitsChantierPlugin.cs",
-              "RelativeToolTip": "Divico.CRM.Plugins.Chantier\\CopierProduitsChantierPlugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T18:29:42.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ChantierCreateHandler.cs",
-              "DocumentMoniker": "C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier\\ChantierCreateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\GIGABYTE\\Desktop\\bs-it\\repos\\repos\\Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier\\ChantierCreateHandler.cs",
               "RelativeDocumentMoniker": "Divico.CRM.Plugins.Chantier\\ChantierCreateHandler.cs",
-              "ToolTip": "C:\\Users\\boulbabasdiri\\source\\repos\\Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier\\ChantierCreateHandler.cs",
+              "ToolTip": "C:\\Users\\GIGABYTE\\Desktop\\bs-it\\repos\\repos\\Divico.CRM.Plugins.Chantier\\Divico.CRM.Plugins.Chantier\\ChantierCreateHandler.cs",
               "RelativeToolTip": "Divico.CRM.Plugins.Chantier\\ChantierCreateHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUBAAAAAAAAAAAwwDABAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-01T15:38:51.924Z"
+              "WhenOpened": "2026-04-01T15:38:51.924Z",
+              "EditorCaption": ""
             }
           ]
         }
